@@ -1,3 +1,19 @@
+# GENERICAGENT-FORK
+
+## Origine
+- Fork de : **GenericAgent**
+- Auteur : lsdefine
+- Dépôt d'origine : https://github.com/lsdefine/GenericAgent
+- Forké le 13.11.2026 par OMNIKORP-FAKTORY, avec tout l'historique et toutes les branches
+
+## Rôle chez OMNIKORP
+Prétendant d'AGENT SOFIA (S7), conservé comme preuve et sauvegarde, et étudié dans la chaîne EXTRACTION, COMPARAISON, FUSION.
+
+## Licence
+MIT, inchangée dans le fichier LICENSE.
+
+---
+
 <div align="center">
 
 <img src="assets/images/bar.jpg" width="880" alt="GenericAgent Banner"/>
